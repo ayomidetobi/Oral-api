@@ -1,0 +1,6 @@
+.history/
+venv/
+venv/Lib/
+venv/Scripts
+.history/
+/venv/
